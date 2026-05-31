@@ -1,1 +1,12 @@
 # Zentara-technologies-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zentara Technologies</title>
+</head>
+<body>
+    <h1>Welcome to Zentara Technologies</h1>
+    <p>We sell and repair laptops, printers, and computer accessories.</p>
+    <p>Contact: 0742286522</p>
+</body>
+</html>
